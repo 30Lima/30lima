@@ -13,3 +13,6 @@
 </div>
 
 --- 
+<div align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30lima&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
