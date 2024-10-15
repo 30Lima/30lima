@@ -24,4 +24,4 @@
 <a href="mailto:pedrolimaa354@gmail.com"><img height="45" width="45" align="top" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/30lima/30lima/blob/output/github-contribution-grid-snake.svg)
