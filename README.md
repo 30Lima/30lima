@@ -16,7 +16,8 @@
   </center>
 </div>
 
-![Snake animation](https://github.com/30lima/30lima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/30lima/30lima/output/github-contribution-grid-snake.svg)
+
 
 ---
 
