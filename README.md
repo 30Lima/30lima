@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Henrique 👋
 
-📚 2º Semestre em Análise e Desenvolvimento de Sistemas na Fiap <br>
+📚 3º Semestre em Análise e Desenvolvimento de Sistemas na Fiap <br>
 📚 Curso de técnico em informática no CEAP <br>
 🚀 Aprendendo Python, Database e IA <br>
 💭 "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original." <br>
