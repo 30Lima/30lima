@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Pedro+Lima)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=30Lima&show_icons=true&count_private=true&hide_border=true&title_color=363636&icon_color=696969&text_color=f9f2e7&bg_color=808080" alt="Pedro Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30Lima&layout=compact&hide_border=true&title_color=f9f2e7&text_color=f9f2e7&bg_color=808080" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=30Lima&show_icons=true&count_private=true&hide_border=true&title_color=363636&icon_color=696969&text_color=f9f2e7&bg_color=0d1117" alt="Pedro Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30Lima&layout=compact&hide_border=true&title_color=f9f2e7&text_color=f9f2e7&bg_color=0d1117" />
 </div>
 
 
