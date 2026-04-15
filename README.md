@@ -5,21 +5,6 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=30Lima&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=696969&text_color=f9f2e7&bg_color=0d1117" alt="Pedro Lima github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30Lima&layout=compact&hide_border=true&title_color=f9f2e7&text_color=f9f2e7&bg_color=0d1117" />
-</div>
-
-
-
-<div style="display: inline_block" align="center"><br>
-  <img style="margin-left: 10px;" align="center" alt="CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-</div>
 
   ##
   
