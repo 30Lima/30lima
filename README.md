@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -46,4 +46,4 @@ Se você quiser conversar sobre tecnologia, oportunidades ou apenas trocar uma i
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
