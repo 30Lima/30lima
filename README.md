@@ -8,11 +8,11 @@
 
 ## 🚀 Sobre Mim
 
-Fala aí! Sou o **Pedro Lima**. Sou um desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias constantemente. Atualmente, venho aprimorando minhas habilidades em desenvolvimento de software, trabalhando em projetos práticos e explorando novas ferramentas.
+Fala aí! Me chamo Pedro Lima e sou focado em criar soluções eficientes e aprender novas tecnologias constantemente. Atualmente, venho aprimorando minhas habilidades em desenvolvimento de software, trabalhando em projetos práticos e explorando novas ferramentas.
 
-- 💻 Atualmente desenvolvendo aplicativos e soluções web/mobile.
+- 💻 Atualmente desenvolvendo soluções web e implementação de IA.
 - 🧠 Praticando e revisando conceitos de lógica de programação e arquitetura.
-- ⚙️ Adoro transformar ideias em código limpo e funcional.
+- ⚙️ Curto transformar ideias em código limpo e funcional.
 
 ---
 
